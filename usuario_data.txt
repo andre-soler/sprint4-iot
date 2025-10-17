@@ -1,0 +1,1 @@
+{"nome": "Andre", "sobrenome": "Coelho", "idade": 20, "score_risco": "ALTO", "user_id": 42}
